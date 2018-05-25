@@ -1,5 +1,3 @@
-# blog
-Test github pages
+# Myshov.com
 
-
-[link](docs/file.md)
+[myshov.com](http://myshov.com)
