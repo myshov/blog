@@ -243,3 +243,15 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.cite__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-style: italic;
+}
+
+.cite__author {
+    display: block;
+    text-align: right;
+}
